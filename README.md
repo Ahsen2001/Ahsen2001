@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://github.com/Ahsen2001/Ahsen2001/my/main/Profile.jpg" alt="Umer Ahsen" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/Ahsen2001/Ahsen2001/blob/main/Profile.jpg" alt="Umer Ahsen" width="200" style="border-radius: 50%;"/>
   <h2>Hi, I'm Umer Ahsen 👋</h2>
   <p>🎓 Undergraduate | 💻 Developer | 📚 Tutor</p>
 </div>
