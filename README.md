@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://github.com/Ahsen2001/Ahsen2001/blob/main/Profile.jpg" alt="Umer Ahsen" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/Ahsen2001/Ahsen2001/blob/main/Profile.jpg" 
+     alt="Ahsen" 
+     width="150"
+     style="border-radius:50%; border:3px solid #333; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
   <h2>Hi, I'm Umer Ahsen 👋</h2>
   <p>🎓 Undergraduate | 💻 Developer | 📚 Tutor</p>
 </div>
@@ -8,14 +11,13 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a passionate and dedicated ICT undergraduate from **South Eastern University of Sri Lanka**, with hands-on experience in **web development**, **teaching**, and **technical problem-solving**.  
-I enjoy building full-stack web applications, designing user-friendly interfaces, and sharing knowledge through teaching and collaboration.
+I'm a passionate and dedicated ICT undergraduate from **South Eastern University of Sri Lanka**, with hands-on experience in **web development**, **teaching**, and **technical problem-solving**. I enjoy building full-stack web applications, designing user-friendly interfaces, and sharing knowledge through teaching and collaboration.
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
-**Languages:** Java · Python · HTML · CSS · JavaScript · PHP · SQL  
-**Frameworks & Tools:** ReactJS · Bootstrap · Git & GitHub · VS Code · Figma · XAMPP · phpMyAdmin · Microsoft Office  
+**Languages:** Java · Python · HTML · CSS . JavaScript · PHP · SQL  
+**Frameworks & Tools:** ReactJS · Laravel . Bootstrap · Git & GitHub · VS Code · Figma · XAMPP · phpMyAdmin · Microsoft Office  
 
 ---
 
