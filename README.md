@@ -1,20 +1,25 @@
-<!-- Profile Header -->
 <div align="center">
 
-<img src="https://github.com/Ahsen2001/Ahsen2001/blob/main/Profile.jpg" alt="Umer Ahsen" width="140" style="border-radius: 50%;" />
+<img src="https://github.com/Ahsen2001/Ahsen2001/blob/main/Profile.jpg" width="140" alt="Umer Ahsen" style="border-radius:50%;" />
 
 # Umer Ahsen
 
-### ICT Undergraduate | Full-Stack Developer | Tutor
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Web+Developer;Tutor+%7C+Tech+Enthusiast;Building+%2C+Learning+%26+Teaching" alt="Typing SVG" />
 
 <p>
-  Passionate about building practical web applications, creating user-friendly experiences, and sharing knowledge through teaching.
+  <img src="https://komarev.com/ghpvc/?username=Ahsen2001&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p>
-  <a href="mailto:uahsens1@gmail.com"><img src="https://img.shields.io/badge/Email-uahsens1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Ahsen2001"><img src="https://img.shields.io/badge/GitHub-Ahsen2001-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahsenurifka"><img src="https://img.shields.io/badge/LinkedIn-Umer%20Ahsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:uahsens1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ahsen2001">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahsenurifka">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -23,23 +28,19 @@
 
 ## About Me
 
-I’m a dedicated **ICT undergraduate** from **South Eastern University of Sri Lanka** with experience in **web development**, **teaching**, and **technical problem-solving**.
+I’m a passionate **ICT undergraduate** from **South Eastern University of Sri Lanka** with hands-on experience in **web development**, **teaching**, and **technical problem-solving**.
 
-I enjoy:
-- Building full-stack web applications
-- Designing clean and user-friendly interfaces
-- Teaching and helping others grow in tech
-- Turning ideas into practical digital solutions
+I enjoy building full-stack applications, designing modern user interfaces, and sharing knowledge through teaching and collaboration.
 
 ---
 
 ## Tech Stack
 
-### Languages
-`Java` `Python` `HTML` `CSS` `JavaScript` `PHP` `SQL`
+<div align="center">
 
-### Frameworks & Tools
-`ReactJS` `Laravel` `Bootstrap` `Git` `GitHub` `VS Code` `Figma` `XAMPP` `phpMyAdmin` `Microsoft Office`
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,react,laravel,bootstrap,mysql,git,github,vscode,figma" />
+
+</div>
 
 ---
 
@@ -47,62 +48,53 @@ I enjoy:
 
 ### [IPHS Campus Management System](https://github.com/Ahsen2001/IPHS_CAMPUS)
 
-A comprehensive campus management system designed for admins, teachers, and students.
+A comprehensive campus management system for admins, teachers, and students.
 
-**Highlights**
 - Built with **PHP**, **MySQL**, and **Bootstrap**
-- Integrated **Chart.js** for data visualization
+- Integrated **Chart.js** for analytics and visualization
 - Implemented **secure login** and role-based access
-- Included **dashboard analytics** and responsive layouts
+- Designed responsive dashboards for better usability
 
 ---
 
 ## Experience
 
 ### Tutor (Remote) | Bright Minds College
-**Nov 2024 – Present**  
-Teaching Diploma in Computer Basics with a focus on Microsoft Office and core computer literacy skills.
+**Nov 2024 - Present**  
+Teaching Diploma in Computer Basics, with focus on Microsoft Office and essential digital literacy.
 
 ### Teacher | An-Noor Academy, Nawalady
-**Feb 2022 – 2024**  
-Delivered ICT lessons and supported students in building practical computer knowledge.
+**Feb 2022 - 2024**  
+Delivered ICT lessons and supported students in improving practical computer skills.
 
 ---
 
 ## Education
 
-- **BA (Hons) in ICT (Undergraduate)**  
-  South Eastern University of Sri Lanka | **2022 – Present**
-
-- **HNDIT**  
-  ATI Batticaloa (SLIATE) | **2022 – 2025**
-
-- **Diploma in English**  
-  LEAD Distance Educational Institution | **2021**
-
-- **Certificate in Secondary Islamic Education**  
-  Ibnu Abbas Arabic College | **2021**
+- **BA (Hons) in ICT** - South Eastern University of Sri Lanka *(2022 - Present)*
+- **HNDIT** - ATI Batticaloa (SLIATE) *(2022 - 2025)*
+- **Diploma in English** - LEAD Distance Educational Institution *(2021)*
+- **Certificate in Secondary Islamic Education** - Ibnu Abbas Arabic College *(2021)*
 
 ---
 
 ## Certifications
 
-- **SLASSCOM Fundamentals – Track** (2023)
-- **Mobile Phone Repair Technician** – BECAS College (2022)
-- **Security & Surveillance System Technician** – BECAS College (2022)
-- **Certificate in Fundamentals of IT** – Ibnu Abbas Arabic College (2021)
+- **SLASSCOM Fundamentals - Track** *(2023)*
+- **Mobile Phone Repair Technician** - BECAS College *(2022)*
+- **Security & Surveillance System Technician** - BECAS College *(2022)*
+- **Certificate in Fundamentals of IT** - Ibnu Abbas Arabic College *(2021)*
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ahsen2001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahsen2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsen2001&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsen2001&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsen2001&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsen2001&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -120,8 +112,7 @@ Delivered ICT lessons and supported students in building practical computer know
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Web_Design_Practice&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Ahsen2001/Python_Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Python_Learning&theme=tokyonight&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Python_Learning&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -139,17 +130,16 @@ Delivered ICT lessons and supported students in building practical computer know
 
 ## Fun Fact
 
-I’m a lifelong learner who enjoys building digital solutions and inspiring others through teaching.
+I’m a lifelong learner who enjoys turning ideas into digital solutions and helping others grow through technology.
 
 ---
 
 <div align="center">
 
-### Code • Teach • Inspire
+### Code. Teach. Inspire.
 
-Thanks for visiting my profile.  
-If you like my work, feel free to connect, collaborate, or explore my repositories.
+<p><i>Thanks for visiting my profile. Let's connect, collaborate, and create something meaningful.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:1e293b&section=footer" />
 
 </div>
