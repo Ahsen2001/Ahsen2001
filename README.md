@@ -4,7 +4,7 @@
 
 # Umer Ahsen
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Web+Developer;Tutor+%7C+Tech+Enthusiast;Building+%2C+Learning+%26+Teaching" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=ICT+Undergraduate;Full-Stack+Web+Developer;Tutor+%7C+Tech+Enthusiast;Building%2C+Learning+%26+Teaching" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ahsen2001&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
@@ -44,7 +44,15 @@ I enjoy building full-stack applications, designing modern user interfaces, and 
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### [JDIK Masjid System](https://github.com/Ahsen2001/jdik-masjid-system)
+
+A web-based system developed to support masjid-related management and digital operations in a more organized and efficient way.
+
+- Built to streamline mosque administration workflows
+- Focused on usability, structured data handling, and practical functionality
+- Developed with a full-stack web approach for real-world use
 
 ### [IPHS Campus Management System](https://github.com/Ahsen2001/IPHS_CAMPUS)
 
@@ -54,6 +62,14 @@ A comprehensive campus management system for admins, teachers, and students.
 - Integrated **Chart.js** for analytics and visualization
 - Implemented **secure login** and role-based access
 - Designed responsive dashboards for better usability
+
+### Fake News Detection Using Machine Learning
+
+A machine learning-based project focused on evaluating prediction quality and maintaining reliable test outcomes.
+
+- Tested system outputs to validate accuracy and consistency of results
+- Reviewed model performance metrics and documented observations
+- Supported data validation and quality checks during testing
 
 ---
 
@@ -112,7 +128,12 @@ Delivered ICT lessons and supported students in improving practical computer ski
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Web_Design_Practice&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Python_Learning&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Ahsen2001/Python_Learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=Python_Learning&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ahsen2001/jdik-masjid-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsen2001&repo=jdik-masjid-system&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
