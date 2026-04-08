@@ -72,7 +72,7 @@ A comprehensive campus management system designed for admins, teachers, and stud
 - Included **secure login**, dashboard insights, and responsive design
 - Supported multiple user roles with efficient management features
 
-### [Fake News Detection Using Machine Learning](https://github.com/Ahsen2001/IPHS_CAMPUS)
+### [Fake News Detection Using Machine Learning](https://github.com/Ahsen2001/Fake-News-Detection)
 
 A machine learning-based project focused on testing, validating, and evaluating prediction reliability.
 
